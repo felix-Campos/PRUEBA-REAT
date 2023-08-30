@@ -1,0 +1,12 @@
+.moneda {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 3rem;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+
+body {
+  background-color: blue;
+}
